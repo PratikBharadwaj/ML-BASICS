@@ -1,0 +1,11 @@
+Age_Group,Certified,Skill_Type,Status
+Old,Yes,Soft skill,Rejected
+Middle,No,Hard skill,Selected
+Middle,Yes,Soft skill,Rejected
+Young,No,Hard skill,Selected
+Middle,Yes,Hard skill,Rejected
+Young,No,Soft skill,Selected
+Young,Yes,Soft skill,Selected
+Old,No,Soft skill,Rejected
+Old,No,Hard skill,Rejected
+Middle,No,Soft skill,Selected
